@@ -54,14 +54,6 @@
 
 ---
 
-## 📊 GitHub Stats & Streaks
-
-<p align="center">
-  <img src="https://portfolio-website-coral-omega-73.vercel.app/&show_icons=true&theme=radical" alt="Shriram's GitHub stats"/>
-</p>
-
----
-
 ## 🏸 Hobbies
 
 - 🏊‍♂️ Swimming & 🏸 Badminton
